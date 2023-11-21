@@ -1,14 +1,14 @@
 [
   {
     "value": "root",
-    "text": "ROOT"
+    "label": "ROOT"
   },
   {
     "value": "npst",
-    "text": "NPST"
+    "label": "NPST"
   },
   {
     "value": "3sg",
-    "text": "3SG"
+    "label": "3SG"
   }
 ]
